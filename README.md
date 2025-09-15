@@ -20,7 +20,7 @@
 
 | Home Page | Add House Page | Checkout Page |
 |-----------|----------------|---------------|
-| ![Home](path/to/home-screenshot.png) | ![Add House](path/to/add-house-screenshot.png) | ![Checkout](path/to/checkout-screenshot.png) |
+| ![Home](https://github.com/sourav842741/staybnb/blob/bd0e98d95d770693bda3768b3e0194d26669ed6e/Screenshot%202025-09-15%20212747.png) | ![Add House](path/to/add-house-screenshot.png) | ![Checkout](path/to/checkout-screenshot.png) |
 
 ---
 
