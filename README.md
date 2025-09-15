@@ -18,9 +18,9 @@
 
 ## 📸 Screenshots
 
-| Home Page | Add House Page | Checkout Page |
+| Home Page | Add House Page | Sign In Page |
 |-----------|----------------|---------------|
-| ![Home](https://github.com/sourav842741/staybnb/blob/bd0e98d95d770693bda3768b3e0194d26669ed6e/Screenshot%202025-09-15%20212747.png) | ![Add House](https://github.com/sourav842741/staybnb/blob/ee1940426ad02136d6f925327d6841cbc47e33bd/Screenshot%202025-09-15%20212818.png) | ![Checkout](path/to/checkout-screenshot.png) |
+| ![Home](https://github.com/sourav842741/staybnb/blob/bd0e98d95d770693bda3768b3e0194d26669ed6e/Screenshot%202025-09-15%20212747.png) | ![Add House](https://github.com/sourav842741/staybnb/blob/ee1940426ad02136d6f925327d6841cbc47e33bd/Screenshot%202025-09-15%20212818.png) | ![Sign In](https://github.com/sourav842741/staybnb/blob/456347c22ef4d5a79957359e0c4a72142b62b129/Screenshot%202025-09-15%20212833.png) |
 
 ---
 
